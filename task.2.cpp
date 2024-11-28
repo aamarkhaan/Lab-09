@@ -12,6 +12,7 @@ int main()
             cout << "Enter the value to store in an array : ";
             cin >> arr[i][j];
         }
+          cout << endl;
     }
 
     for(int i = 0; i < 3; i++)
